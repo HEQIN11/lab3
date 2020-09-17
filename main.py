@@ -25,5 +25,5 @@ def run():
   d=str(c)
   print_n(d,b)
 
-if  __name__=="__while__":
+if  __name__=="__main__":
   run()
